@@ -1,0 +1,37 @@
+<root>
+    <property name="requiredColumns">
+        <map>
+            <entry value="Managed object" key="Managedobject"/>
+            <entry value="Modification" key="Modification"/>
+            <entry value="Description" key="Description"/>
+            <entry value="Range and step" key="Rangeandstep"/>
+            <entry value="Interfaces" key="Interfaces"/>
+            <entry value="RAC planning interface name" key="Planninginterfacename"/>
+            <entry value="3GPP name" key="Threegppname"/>
+            <entry value="Multiplicity" key="Multiplicity"/>
+
+            <entry value="Parameter group" key="Parametergroup"/>
+            <entry value="Formula for getting internal value" key="Formulaforgettinginternalvalue"/>
+            <entry value="Default value" key="Defaultvalue"/>
+            <entry value="Default value notes" key="Defaultvaluenotes"/>
+            <entry value="Special value" key="Specialvalue"/>
+            <entry value="Related functions" key="Relatedfunctions"/>
+            <entry value="Related parameters" key="Relatedparameters"/>
+            <entry value="Parameter relationships" key="Parameterrelationships"/>
+            <entry value="Related features" key="Relatedfeatures"/>
+            <entry value="References" key="References"/>
+            <entry value="Segment level parameter" key="Segmentlevelparameter"/>
+
+            <entry value="MML full name" key="Mmlfullname"/>
+            <entry value="MML abbreviated name" key="Mmlabbreviatedname"/>
+            <entry value="RAC DB table name" key="Racdbtable"/>
+            <entry value="RAC DB column name" key="Racdbcolumn"/>
+            <entry value="Location in RNC GUI" key="Locationinrncgui"/>
+            <entry value="Required on creation" key="Requiredoncreation"/>
+            <entry value="Pddbidinternal" key="Pddbidinternal"/>
+            <entry value="Data type" key="Datatype"/>
+            <entry value="Parent in NE" key="ParentParameter"/>
+            <entry value="Name in NE" key="Pddbnename"/>
+        </map>
+    </property>
+</root>
